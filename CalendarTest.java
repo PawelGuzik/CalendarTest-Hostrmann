@@ -93,8 +93,8 @@ public class CalendarTest {
 		case "czerwca": result = "CZERWIEC"; break;
 		case "lipca" : result = "LIPIEC"; break;
 		case "sierpnia" : result = "SIERPIE—"; break;
-		case "wrzesnia" : result = "WRZESIE—"; break;
-		case "paüdziernika" : result = "PAZDZIERNIK"; break;
+		case "wrzeúnia" : result = "WRZESIE—"; break;
+		case "paüdziernika" : result = "PAèDZIERNIK"; break;
 		case "listopada" : result = "LISTOPAD"; break;
 		
 		case "grudnia" : result = "GRUDZIE—"; break;
