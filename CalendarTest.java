@@ -96,7 +96,9 @@ public class CalendarTest {
 		case "wrzesnia" : result = "WRZESIE—"; break;
 		case "paüdziernika" : result = "PAZDZIERNIK"; break;
 		case "listopada" : result = "LISTOPAD"; break;
+		
 		case "grudnia" : result = "GRUDZIE—"; break;
+		case "" : result = "ERROR"; break;
 		}
 		return result;
 
